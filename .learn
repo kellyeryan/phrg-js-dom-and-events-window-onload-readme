@@ -5,3 +5,5 @@ languages:
   - JavaScript
 resources: 
   - 2
+
+parent_template: git@github.com:learn-co-curriculum/js-dom-and-events-window-onload-readme.git
