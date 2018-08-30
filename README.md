@@ -44,6 +44,9 @@ The `$` is a shortcut for `jQuery`, and provides an interface to the library. Ev
 
 Once the `load` event fires (which we've told jQuery to listen for with `$(document).ready()`), the rest of the code will fire. Place the document ready around the jQuery already in `script.js`. Save your changes, and refresh in the browser. You should see the text appear in the browser!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-window-onload-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-window-onload-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 + [Learn jQuery](http://learn.jquery.com/using-jquery-core/document-ready/)
